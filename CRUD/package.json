@@ -1,0 +1,13 @@
+{
+  "name": "colombo_crud",
+  "version": "1.0.0",
+  "description": "Usando framework Express dentro do node.js para construir uma API_CRUD para MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabricio Colombo",
+  "license": "ISC"
+}
